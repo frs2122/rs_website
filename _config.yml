@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   <br> <a href="mailto:frs2122@columbia.edu">Email</a>
   <br> <a href="https://www.linkedin.com/in/ryan-santos-89707a113/">LinkedIn</a> 
   <br> <a href="https://twitter.com/rsantos706">Twitter</a>
-baseurl: "/rs_website" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ryanrsantos.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rsantos706
 # github_username:  jekyll
