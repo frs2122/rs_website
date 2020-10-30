@@ -42,7 +42,6 @@ If you're curious about the books I'm reading, check out my [Goodreads](https://
 
 I also like to watch and collect films, check out my [Letterboxd](https://letterboxd.com/rsantos706/). 
 
-# And I enjoy listening to music in between, check out my [Spotify](https://open.spotify.com/user/x11wnmvh1vvrci3w0xjt7hu2v?si=EwT3EmygQ1SwwXn0FcnNqg). 
 
 
 
